@@ -43,6 +43,10 @@ Users can filter the dashboard using:
 
 These filters allow detailed analysis of workforce and financial performance.
 
+## Dashboard Preview
+
+![Project Overview Dashboard](Dashboard.png)
+
 ## Files
 - `workforce-budget-risk.pbix` – Power BI dashboard file
 - `Dashboard.png` – Dashboard preview image
