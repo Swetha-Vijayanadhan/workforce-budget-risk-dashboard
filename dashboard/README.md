@@ -51,5 +51,4 @@ These filters allow detailed analysis of workforce and financial performance.
 - `workforce-budget-risk.pbix` – Power BI dashboard file
 - `Dashboard.png` – Dashboard preview image
 
-## Dashboard Preview
-![Dashboard](Dashboard.png)
+
