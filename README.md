@@ -46,7 +46,7 @@ This dashboard helps management take **early corrective actions**.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
