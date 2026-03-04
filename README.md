@@ -46,7 +46,7 @@ This dashboard helps management take **early corrective actions**.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![workforce-budget-risk Overview Dashboard](screenshots/workforce-budget-risk Overview Dashboard.png)
 
 ---
 
